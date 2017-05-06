@@ -1,1 +1,3 @@
 # public
+
+[![Join the chat at https://gitter.im/etisdew/Lobby](https://badges.gitter.im/etisdew/Lobby.svg)](https://gitter.im/etisdew/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
